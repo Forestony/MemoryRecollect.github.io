@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+14:11:29	5232/5232	---M-Z	404	error ('Not%20Found')	text/html	etag:W/%226317e2ab-247b%22	https://lairdkruger.github.io/robots.txt		(from )
+14:11:29	1264/1264	---M-Z	-1	error ('Error%20when%20decompressing')	text/html	etag:W/%225c491f09-d5e%22	https://lairdkruger.github.io/Urbanize/	C:/Users/vini_/OneDrive/%c3%81rea%20de%20Trabalho/Equa%c3%a7%c3%b5es/Musica%20Site/lairdkruger.github.io/Urbanize/index.html	(from )
